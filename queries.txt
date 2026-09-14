@@ -1,0 +1,23 @@
+9 ?- father(mubarak, alin).
+true.
+
+10 ?- father(eyad, yazeed).
+true.
+
+11 ?- mother(shahad, alin).
+true.
+
+12 ?- mother(alin, sumo).
+true.
+
+13 ?- sister(almas, eyad).
+true .
+
+14 ?- sister(lolo, alin).
+true .
+
+15 ?- brother(eyad, alin).
+true .
+
+16 ?- brother(eyad, almas).
+true .
